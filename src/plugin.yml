@@ -1,0 +1,26 @@
+name: Full-PVP
+author: Enz0Z
+main: me.enz0z.Core
+version: 1.0
+softdepend: [MenuBuilder, WorldEdit, WorldGuard]
+commands:
+  test:
+    description: Test command.
+  fullpvp:
+    description: FullPVP information.
+    aliases: [mafullpvp, mafp]
+  guild:
+    description: Manage guilds.
+    aliases: [guilds, clan, clanes, team, teams, equipo, equipos]
+  settings:
+    description: Open settings.
+    aliases: [pref, prefs, preferences]
+  restartserver:
+    description: Restart the server.
+    aliases: [rs]
+  spawn:
+    description: Teleport to spawn.
+    aliases: [sp]
+  combatlog:
+    description: CombatLog configure.
+    aliases: [ct]

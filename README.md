@@ -1,2 +1,2 @@
-# Full-PVP
-Java-based minecraft full pvp
+## Information
+This project is an old unfinished version of MineAqua's Full PVP, developed by me.
